@@ -1,0 +1,1 @@
+let idade = leia.questionInt ('Digite a sua idade: ')
