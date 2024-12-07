@@ -14,7 +14,6 @@ let doador = leia.question ("Se ja doou sangue? Digite: SIM ou NAO: ").toUpperCa
  }
 
 
-
  else if (idade >= 60 && doador != "SIM"){
     console.log(`${nome} não esta apto para doar sangue`)
     process.exit(0);
